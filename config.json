@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.learning.learningmobile",
+    "app_id" : "com.learningnations.school",
     "versioncode" : "2016",
     "versionname" : "1.0.0",
     "cache_expiration_time" : 300000,
@@ -9,5 +9,5 @@
     "wsextservice" : "local_mobile",
     "siteurl" : "http://school.learningnations.com",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile"
+    "customurlscheme": "learningnations"
 }
